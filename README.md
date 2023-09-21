@@ -23,3 +23,13 @@ The first line of the input is the marks if the five subjects mentioned above, r
 Print the result in 2 decimal places:
 ✍🏽 Sample Input    : 75.25, 65, 80, 35.45, 99.50
 ✍🏽 Output          : 71.04
+
+- Problem - 03: John's teacher gave him two variables. Each variable contains a string. John's teacher asked him to combine these two strings and print them in one line. Help John to write the program.
+
+➡️ Input:
+The first and the second lines of the input contain the strings.
+
+➡️ Output:
+Print the result in one line:
+✍🏽 Sample Input     : I am going to be || an awesome web developer
+✍🏽 Output           : I am going to be an awesome web developer
