@@ -42,7 +42,7 @@ Print the result in one line.
 
 
 - <h3>Problem - 04:</h3>  
-JSarah's mother is teaching her Mathematics. She gave Sarah a number and asked her what the remainder would be if she divided the number by 5. Help Sarah write the program.
+Sarah's mother is teaching her Mathematics. She gave Sarah a number and asked her what the remainder would be if she divided the number by 5. Help Sarah write the program.
 
 ➡️ Input:
 The first line of the input contains the number.
