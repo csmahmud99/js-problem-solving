@@ -1,7 +1,7 @@
 # js-problem-solving
 In this repo, I have solved some junior-level real-life JavaScript problems.  
-- Problem - 01: Harry's mom gave him money and asked him to buy some oranges and apples. 
-
+- <h3>Problem - 01:</h3>  
+Harry's mom gave him money and asked him to buy some oranges and apples. 
 Write a program to help Harry calculating how much money the shopkeeper will return.
 
 ➡️ Input: 
@@ -15,7 +15,8 @@ Print the result.
 ✍🏽 Output          : 300
 
 
-- Problem - 02: Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics and Bangla of a student.
+- <h3>Problem - 02:</h3>  
+Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics and Bangla of a student.
 
 ➡️ Input:
 The first line of the input is the marks if the five subjects mentioned above, respectively.
@@ -27,7 +28,8 @@ Print the result in 2 decimal places.
 ✍🏽 Output          : 71.04
 
 
-- Problem - 03: John's teacher gave him two variables. Each variable contains a string. John's teacher asked him to combine these two strings and print them in one line. Help John to write the program.
+- <h3>Problem - 03:</h3>  
+John's teacher gave him two variables. Each variable contains a string. John's teacher asked him to combine these two strings and print them in one line. Help John to write the program.
 
 ➡️ Input:
 The first and the second lines of the input contain the strings.
@@ -39,7 +41,8 @@ Print the result in one line.
 ✍🏽 Output           : I am going to be an awesome web developer
 
 
-- Problem - 04: JSarah's mother is teaching her Mathematics. She gave Sarah a number and asked her what the remainder would be if she divided the number by 5. Help Sarah write the program.
+- <h3>Problem - 04:</h3>  
+JSarah's mother is teaching her Mathematics. She gave Sarah a number and asked her what the remainder would be if she divided the number by 5. Help Sarah write the program.
 
 ➡️ Input:
 The first line of the input contains the number.
