@@ -53,3 +53,11 @@ Print the remainder.
 ✍🏽 Sample Input     : 119  
 ✍🏽 Output           : 4
 
+
+- <h3>Problem - 05: (arrayPosition.js)</h3>  
+You are given an array:  
+var fruits = ["Apple", "Banana", "Orange"];
+
+a) Find the index of 'Banana' and replace 'Banana' with 'Mango'.  
+b) Remove 'Orange' and add 'Watermelon'.
+
