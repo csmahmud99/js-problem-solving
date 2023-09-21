@@ -11,8 +11,8 @@ The second line is the cost of 1kg of oranges and 1kg of apples.
 
 ➡️ Output:
 Print the result:
--- Sample Input    : 1000 || 700
--- Output          : 300
+✍🏽 Sample Input    : 1000 || 700
+✍🏽 Output          : 300
 
 
 
@@ -23,5 +23,5 @@ The first line of the input is the marks if the five subjects mentioned above, r
 
 ➡️ Output:
 Print the result in 2 decimal places:
--- Sample Input    : 75.25, 65, 80, 35.45, 99.50
--- Output          : 71.04
+✍🏽 Sample Input    : 75.25, 65, 80, 35.45, 99.50
+✍🏽 Output          : 71.04
