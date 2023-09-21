@@ -14,8 +14,10 @@ Print the result:
 -- Sample Input    : 1000 || 700
 -- Output          : 300
 
+
+
 - Problem - 02: Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics and Bangla of a student.
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ➡️ Input:
 The first line of the input is the marks if the five subjects mentioned above, respectively.
 
