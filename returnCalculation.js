@@ -21,4 +21,4 @@ var returnMoney = givenMoney - fruitPrice;
 
 console.log("The shopkeeper will return:", returnMoney);
 
-// Output: The shopkeeper will return: 300
+// Final Output || The shopkeeper will return: 300
