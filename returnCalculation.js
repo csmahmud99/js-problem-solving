@@ -10,8 +10,8 @@ The second line is the cost of 1kg of oranges and 1kg of apples.
 
 Output:
 Print the result:
-Sample Input    : 1000 || 700
-Output          : 300
+-- Sample Input    : 1000 || 700
+-- Output          : 300
 */
 
 var givenMoney = 1000;

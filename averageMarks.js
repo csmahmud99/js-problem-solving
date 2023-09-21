@@ -6,8 +6,8 @@ The first line of the input is the marks if the five subjects mentioned above, r
 
 Output:
 Print the result in 2 decimal places:
-Sample Input    : 75.25, 65, 80, 35.45, 99.50
-Output          : 71.04
+-- Sample Input    : 75.25, 65, 80, 35.45, 99.50
+-- Output          : 71.04
 */
 
 var marksOfMathematics = 75.25, marksOfBiology = 65, marksOfChemistry = 80, marksOfPhysics = 35.45, marksOfBangla = 99.50;
