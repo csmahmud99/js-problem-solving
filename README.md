@@ -10,9 +10,9 @@ The first line of the input is the taka Harry's mom gave him.
 The second line is the cost of 1kg of oranges and 1kg of apples.
 
 ➡️ Output:
-Print the result:
--- ✍🏽 Sample Input    : 1000 || 700
--- ✍🏽 Output          : 300
+Print the result: 
+✍🏽 Sample Input    : 1000 || 700
+✍🏽 Output          : 300
 
 - Problem - 02: Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics and Bangla of a student.
 
