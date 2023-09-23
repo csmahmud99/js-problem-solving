@@ -1,7 +1,7 @@
 /* 
 You and your friends Tom, Jane, Peter and John got their final exam results. Your total score is 85, Tom's total score is 66, Jane's total score is 95, Peter's total score is 56 amd john's total score is 40.
 
-The grading chart is 
+The grading chart is -
 80 or above A grade,
 60 or above B grade,
 50 or above C grade,
