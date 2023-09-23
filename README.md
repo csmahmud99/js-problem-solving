@@ -77,3 +77,9 @@ Write a program to find your and your friends' grades using 'if-else'.
 
 - <h3>Problem - 07: (largestNumber.js)</h3>  
 You are given three numbers 13, 79 and 45. Write a program that will print the largest number using 'if-else'.
+
+
+- <h3>Problem - 08: (isosceles.js)</h3>  
+You are given a triangle with the sides 9, 8, 9. Write a program to check whether the triangle is Isosceles or not using 'if-else'.  
+  
+✍🏽 Isosceles => two sides are equal.
