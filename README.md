@@ -73,3 +73,7 @@ The grading chart is -
 ➡️ 39 or above => F grade.
 
 Write a program to find your and your friends' grades using 'if-else'.
+
+
+- <h3>Problem - 07: (largestNumber.js)</h3>  
+You are given three numbers 13, 79 and 45. Write a program that will print the largest number using 'if-else'.
