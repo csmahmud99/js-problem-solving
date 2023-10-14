@@ -62,8 +62,8 @@ a) Find the index of 'Banana' and replace 'Banana' with 'Mango'.
 b) Remove 'Orange' and add 'Watermelon'.
 
 
-- <h3>Problem - 06: (findGrades.js)</h3>  
-You and your friends Tom, Jane, Peter and John got their final exam results. Your total score is 85, Tom's total score is 66, Jane's total score is 95, Peter's total score is 56 amd john's total score is 40.
+- <h3>Problem - 06: (findGrades01.js)</h3>  
+You and your friends Tom, Jane, Peter and John got their final exam results. Your total score is 85, Tom's total score is 66, Jane's total score is 95, Peter's total score is 56 amd John's total score is 40.
 
 The grading chart is -   
 ➡️ 80 or above A grade,  
@@ -75,27 +75,39 @@ The grading chart is -
 Write a program to find your and your friends' grades using 'if-else'.
 
 
-- <h3>Problem - 07: (largestNumber.js)</h3>  
+- <h3>Problem - 07: (findGrades02.js)</h3>  
+Find the grade of your achieved GPA or marks.
+
+The grading chart is -   
+➡️ 0-32:    'F' Grade,
+➡️ 33-49:   'D' Grade,  
+➡️ 50-59:   'C' Grade,
+➡️ 60-69:   'B' Grade,
+➡️ 70-79:   'A' Grade,
+➡️ 80-100:   'A+' Grade.
+
+
+- <h3>Problem - 08: (largestNumber.js)</h3>  
 You are given three numbers 13, 79 and 45. Write a program that will print the largest number using 'if-else'.
   - Using Multi-stage 'if-else' Conditional: else...else if...else.
   - Using Nested 'if-else' Conditional.
 
 
-- <h3>Problem - 08: (isosceles.js)</h3>  
+- <h3>Problem - 09: (isosceles.js)</h3>  
 You are given a triangle with the sides 9, 8, 9. Write a program to check whether the triangle is Isosceles or not using 'if-else'.  
   
 ✍🏽 Isosceles => two sides are equal.
 
 
-- <h3>Problem - 09: (trafficSignal.js)</h3>  
+- <h3>Problem - 10: (trafficSignal.js)</h3>  
 You are in a hurry to go to your school. But while you are trying to cross the road, you can see that the color of the traffic signal is red; in this situation, if you try to cross the road, it can be a danger for you. If the traffic signal's color is yellow, you should stop if you are trying to make an attempt to cross the road and wait. And if the color of the traffic signal is green, then you should try to cross the road.
 
 Now, write a code with a variable named 'signal'; its value can be green, yellow, or red; and according to different colors, different tasks will be done.  
 
 
-- <h3>Problem - 10: (nestedIfElse.js)</h3>
+- <h3>Problem - 11: (nestedIfElse.js)</h3>
 Check if the value of the variable named 'number' is 30 or, not; if it is 30, then check if its data type is 'string' or not. If it is '30' and 'string', then she output, otherwise show the text 'Nothing'.
 
 
-- <h3>Problem - 11: (evenOdd.js)</h3>
+- <h3>Problem - 12: (evenOdd.js)</h3>
 Find a given number is Even or, Odd.
