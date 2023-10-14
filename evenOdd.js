@@ -4,7 +4,7 @@ Find a given number is Even or, Odd.
 
 var num = 100;
 
-if(num % 2 != 0) {
+if(num % 2 != 0) {      // if(num % 2 == 1)
     console.log(num, ": is an Odd Number");
 }
 else {
