@@ -95,3 +95,7 @@ Now, write a code with a variable named 'signal'; its value can be green, yellow
 
 - <h3>Problem - 10: (nestedIfElse.js)</h3>
 Check if the value of the variable named 'number' is 30 or, not; if it is 30, then check if its data type is 'string' or not. If it is '30' and 'string', then she output, otherwise show the text 'Nothing'.
+
+
+- <h3>Problem - 11: (evenOdd.js)</h3>
+Find a given number is Even or, Odd.
