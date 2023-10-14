@@ -88,6 +88,10 @@ You are given a triangle with the sides 9, 8, 9. Write a program to check whethe
 
 
 - <h3>Problem - 09: (trafficSignal.js)</h3>  
-You are in a hurry to go to your school. But while you are trying to cross the road, you can see that the color of the traffic signal is red; in this situation, if you try to cross the road, it cam be a danger for you. If the color of the traffic signal is yellow, then you should stop if you are trying to take the attempt to cross the road and wait. And if the color of the traffic signal is green, then you should try to cross the road.
+You are in a hurry to go to your school. But while you are trying to cross the road, you can see that the color of the traffic signal is red; in this situation, if you try to cross the road, it can be a danger for you. If the traffic signal's color is yellow, you should stop if you are trying to make an attempt to cross the road and wait. And if the color of the traffic signal is green, then you should try to cross the road.
 
-Now, write a code where we have a variable named 'signal'; it's value can be green, yellow or red; and according to different colors different tasks will be done.
+Now, write a code with a variable named 'signal'; its value can be green, yellow, or red; and according to different colors, different tasks will be done.  
+
+
+- <h3>Problem - 10: (nestedIfElse.js)</h3>
+Check if the value of the variable named 'number' is 30 or, not; if it is 30, then check if its data type is 'string' or not. If it is '30' and 'string', then she output, otherwise show the text 'Nothing'.
